@@ -1,0 +1,16 @@
+[
+  {
+    "time_last_update_utc": "Tue, 06 Jan 2026 00:00:01 +0000",
+    "base_code": "USD",
+    "target_code": "MXN",
+    "conversion_rate": "17.9485",
+    "conversion_result": "179.485"
+  },
+  {
+    "time_last_update_utc": "Tue, 06 Jan 2026 00:00:01 +0000",
+    "base_code": "AUD",
+    "target_code": "USD",
+    "conversion_rate": "0.6699",
+    "conversion_result": "1.3398"
+  }
+]
